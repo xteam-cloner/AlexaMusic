@@ -15,6 +15,7 @@ psutil
 py-tgcalls==2.2.0rc3
 PyTgCrypto
 python-dotenv
+pykeyboard
 pyyaml~=6.0.2
 requests
 speedtest-cli
