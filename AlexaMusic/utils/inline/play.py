@@ -111,7 +111,9 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(text=_["CLOSEMENU_BUTTON"], callback_data="close"),
-        ]
+        ],
+    ]
+        
 
 
 def telegram_markup(_, chat_id):
