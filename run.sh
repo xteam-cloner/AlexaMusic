@@ -12,7 +12,7 @@ else
 fi
 
 # Variabel konfigurasi Docker (tetap sama)
-IMAGE_NAME="${IMAGE_NAME:-AlexaMusic:latest}"
+IMAGE_NAME="${IMAGE_NAME:-alexamusic:latest}"
 CONTAINER_NAME="${CONTAINER_NAME:-AlexaMusic_bot}"
 
 # --- 1. Membangun Image Docker ---
